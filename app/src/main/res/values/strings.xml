@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMapExample</string>
+    <string name="direction_map_key">Ay2VYX1wYwQGZp2LBCqVFGxspeGGrDvM</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidWJvem9yYm95ZXYiLCJhIjoiY2tibTc1MTcyMDdxMzJ1cDd0NDJlMzg0ZSJ9.nN41a1tyQsCTn6k-PKa-oA</string>
+</resources>
